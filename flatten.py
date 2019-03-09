@@ -1,7 +1,7 @@
 '''
     File: Recursive flatten function
     Author: N. Parsons
-    Copyright: N. Parsons (C) 2018
+    Copyright: N. Parsons (C) 2019
 '''
 def flatten(arr): # flattnes an n-dimensional list
     if type(arr) is not list:
